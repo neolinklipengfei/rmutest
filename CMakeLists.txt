@@ -1,0 +1,4 @@
+PROJECT(trmd)
+ADD_SUBDIRECTORY(trm/nas)
+ADD_SUBDIRECTORY(trm/ranap)
+
